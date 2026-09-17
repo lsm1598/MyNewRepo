@@ -1,0 +1,3 @@
+test[12].txt #test3.txt는 반영되지 않을 것
+test_?.txt #test_10.txt는 반영되지 않을 것
+test__*.txt #test__1,2,3,10..전부 반영되지 않을 것
